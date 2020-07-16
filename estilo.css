@@ -1,18 +1,14 @@
 body {
-  background-color: lightblue;
-}
-
-h1 {
-  text-align: center;
+    background-color: rgb(6, 29, 58);
 }
 
 #texto {
-  text-align: center;
+    text-align: center;
 }
 
 .textoImportante {
-  color: black;
-  font-family: fantasy;
-  font-style: italic;
-  font-weight: bold;  
+    color: rgb(77, 161, 66);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic
+    font-weight: bold;
 }
